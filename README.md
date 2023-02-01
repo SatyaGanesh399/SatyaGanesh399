@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Satya Ganesh</h1>
 <h3 align="center">A Software bud all set to Bloom</h3>
 
-- 🔭 I’m currently working on [Delight- Personal Project](https://delight-coffee-cafe.netlify.app)
+- 🔭 I’m currently working as a software developer @Nirvesh_Enterprises_Private_Limited
 
-- 🌱 I’m currently learning **ReactJS And NodeJs**
+- 🌱 MERN stack Developer | React Native Developer | Graphic Desinger
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [Will Update Soon](Will Update Soon)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, Java and Sql**
 
 - 📫 How to reach me **satya.ganeshofficial111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hJEMP4Xzr4vfPI_LeOICfauK6u66vL50/view?usp=sharing](https://drive.google.com/file/d/1hJEMP4Xzr4vfPI_LeOICfauK6u66vL50/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pMSl-8YSaFQFhT9XX0UFkai1ul8LTVz4/view?usp=share_link](https://drive.google.com/file/d/1hJEMP4Xzr4vfPI_LeOICfauK6u66vL50/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
