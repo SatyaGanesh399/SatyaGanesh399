@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satya Ganesh</h1>
 <h3 align="center">A Software bud all set to Bloom</h3>
 
-- 🔭 I’m currently working as a software developer @Nirvesh_Enterprises_Private_Limited
+- 🔭 I’m currently working as a software engineer @ Quickmetrix, Bangalore
 
-- 🌱 MERN stack Developer | React Native Developer | Graphic Desinger
+- 🌱 MERN stack Developer | React Native Developer | Graphic Desinger | Python Developer
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJs, MongogDB, Java and Sql**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJs, MongogDB, Java, Python and Sql**
 
 - 📫 How to reach me **satya.ganeshofficial111@gmail.com**
 
